@@ -2,6 +2,7 @@
 // 002
 // 003 new master & develop again and again
 
+// keep going
 // dev 001
 // dev 002
 // dev 003
@@ -16,6 +17,6 @@
 // mac commit testing
 // haha...hm.
 // let keep coding on repo1
-mst1
-mst2
-mst3
+mst1;
+mst2;
+mst3;
